@@ -9,6 +9,9 @@
   
 ![Screenshot Portfolio](https://github.com/faishalwahiduddin/Antree.id/assets/15316893/4d39bcaa-0da6-42cd-80db-d208211a6182)
 
+## 🖥️ Tech Stack
+
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## 📬 Contact
 
